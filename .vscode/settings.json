@@ -1,0 +1,5 @@
+{
+    "jdk.runConfig.env": "config.yml",
+    "jdk.runConfig.cwd": "/Users/afuaansah/Desktop/forage_dev/hoen-scanner",
+    "jdk.runConfig.arguments": "server config.yml"
+}
